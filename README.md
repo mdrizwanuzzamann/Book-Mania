@@ -1,1 +1,3 @@
 # Book-Mania
+
+Book Mania is a fully responsive online bookstore built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application features user authentication with sign-up, sign-in, and logout functionality, along with multiple dynamic pages and a clean, modern interface enhanced by a well-designed footer. The frontend is developed using React.js and communicates with the backend through Axios for seamless API integration, while MongoDB and Express.js handle data management and server-side operations. Overall, Book Mania offers a smooth and efficient user experience, demonstrating a complete full-stack web development workflow.
