@@ -14,9 +14,6 @@
     },
     "author": "",
     "license": "ISC",
-    "bugs": {
-        "url": ""
-    },
     "homepage": "",
     "dependencies": {
         "bcryptjs": "^2.4.3",
